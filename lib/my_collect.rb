@@ -8,7 +8,7 @@ while i < array.length
   yield new_array << array[i]
   i += 1
 end
-else 
+else
 new_array << array
 end
 new_array
