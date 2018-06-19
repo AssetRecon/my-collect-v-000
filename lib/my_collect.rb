@@ -13,3 +13,5 @@ new_array << array
 end
 new_array
 end
+
+my_collect(array) { |i| }
